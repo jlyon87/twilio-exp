@@ -1,0 +1,6 @@
+# node packages
+node_modules/
+
+# private resources
+keys.js
+contacts.js
